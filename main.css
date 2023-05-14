@@ -129,7 +129,7 @@
 
   position: absolute;
   top: 30%;
-  left: 50%;
+  left: 32%;
   z-index: 2;
 }
 
@@ -142,7 +142,7 @@
 
   position: absolute;
   top: 30%;
-  left: 50%;
+  left: 32%;
   z-index: 1;
 }
 
@@ -185,14 +185,14 @@
 }
 
 .main_header-div3 {
-  width: 900px;
+  width: 800px;
   height: 2px;
 
   background-color: #404242;
 
   position: absolute;
   top: 780px;
-  left: 700px;
+  left: 580px;
 
   z-index: 2;
 }
@@ -203,7 +203,7 @@
 
   position: absolute;
   top: 540px;
-  left: 80%;
+  left: 78%;
 
   opacity: 0.5;
 }
@@ -211,7 +211,7 @@
 .main_header-img_facebook a {
   position: absolute;
   top: 540px;
-  left: 80%;
+  left: 78%;
   z-index: 1;
   opacity: 0;
 }
@@ -256,7 +256,7 @@
 
   position: absolute;
   top: 800px;
-  left: 760px;
+  left: 600px;
 }
 
 .main-header li:nth-child(1) {
@@ -395,7 +395,7 @@
 
   position: absolute;
   top: 20%;
-  left: 25%;
+  left: 20%;
 }
 
 /* section; skills */
@@ -441,7 +441,7 @@
   background-color: #2d2e2e;
   margin-left: 35%;
 
-  padding: 80px 80px;
+  padding: 80px 60px;
 }
 
 .main-skills h4 {
@@ -470,7 +470,7 @@
 
 .main-skill_photoshop p {
   position: absolute;
-  left: 130px;
+  left: 110px;
 }
 
 .main-skills_photoshop-percentage {
@@ -489,7 +489,7 @@
 
   position: absolute;
   top: 120px;
-  left: 280px;
+  left: 260px;
 }
 
 /* git skill */
@@ -507,7 +507,7 @@
 .main-skill_git p {
   position: absolute;
   top: 180px;
-  left: 130px;
+  left: 110px;
 }
 
 .main-skills_git-percentage {
@@ -526,7 +526,7 @@
 
   position: absolute;
   top: 220px;
-  left: 140px;
+  left: 120px;
 }
 
 /* sketch skill */
@@ -544,7 +544,7 @@
 .main-skill_sketch p {
   position: absolute;
   top: 280px;
-  left: 130px;
+  left: 110px;
 }
 
 .main-skills_sketch-percentage {
@@ -563,7 +563,7 @@
 
   position: absolute;
   top: 320px;
-  left: 340px;
+  left: 320px;
 }
 
 /* layout skill */
@@ -576,13 +576,13 @@
 .main-skill_layout h4 {
   position: absolute;
   top: 80px;
-  left: 600px;
+  left: 540px;
 }
 
 .main-skill_layout p {
   position: absolute;
   top: 80px;
-  left: 650px;
+  left: 590px;
 }
 
 .main-skills_layout-percentage {
@@ -592,7 +592,7 @@
 
   position: absolute;
   top: 120px;
-  left: 600px;
+  left: 540px;
 }
 
 .main-skills_layout-no-percentage {
@@ -602,7 +602,7 @@
 
   position: absolute;
   top: 120px;
-  left: 900px;
+  left: 840px;
 }
 
 /* animation skill */
@@ -615,13 +615,13 @@
 .main-skill_animation h4 {
   position: absolute;
   top: 180px;
-  left: 600px;
+  left: 540px;
 }
 
 .main-skill_animation p {
   position: absolute;
   top: 180px;
-  left: 650px;
+  left: 590px;
 }
 
 .main-skills_animation-percentage {
@@ -631,7 +631,7 @@
 
   position: absolute;
   top: 220px;
-  left: 600px;
+  left: 540px;
 }
 
 .main-skills_animation-no-percentage {
@@ -641,7 +641,7 @@
 
   position: absolute;
   top: 220px;
-  left: 880px;
+  left: 820px;
 }
 
 /* seo skill */
@@ -654,13 +654,13 @@
 .main-skill_seo h4 {
   position: absolute;
   top: 280px;
-  left: 600px;
+  left: 540px;
 }
 
 .main-skill_seo p {
   position: absolute;
   top: 280px;
-  left: 650px;
+  left: 590px;
 }
 
 .main-skills_seo-percentage {
@@ -670,7 +670,7 @@
 
   position: absolute;
   top: 320px;
-  left: 600px;
+  left: 540px;
 }
 
 .main-skills_seo-no-percentage {
@@ -680,7 +680,7 @@
 
   position: absolute;
   top: 320px;
-  left: 860px;
+  left: 800px;
 }
 
 /* portfolio section */
@@ -725,8 +725,8 @@
 }
 
 .main-portfolio_div2 img:nth-child(1) {
-  width: 400px;
-  height: 300px;
+  width: 340px;
+  height: 270px;
 
   position: absolute;
 
@@ -735,18 +735,18 @@
 }
 
 .main-portfolio_div2 img:nth-child(2) {
-  width: 400px;
-  height: 300px;
+  width: 340px;
+  height: 270px;
 
   position: absolute;
 
   top: 50px;
-  left: 600px;
+  left: 520px;
 }
 
 .main-portfolio_div2 img:nth-child(3) {
-  width: 400px;
-  height: 300px;
+  width: 340px;
+  height: 270px;
 
   position: absolute;
 
@@ -755,13 +755,13 @@
 }
 
 .main-portfolio_div2 img:nth-child(4) {
-  width: 400px;
-  height: 300px;
+  width: 340px;
+  height: 270px;
 
   position: absolute;
 
   top: 430px;
-  left: 600px;
+  left: 520px;
 }
 
 /* clients section */
@@ -792,7 +792,7 @@
 .main-clients_div p {
   position: absolute;
   top: 16%;
-  left: 60%;
+  left: 56%;
 }
 
 .main-clients_div2 {
@@ -858,13 +858,13 @@
 .footer-div h3 {
   position: absolute;
   top: 20%;
-  left: 80%;
+  left: 78%;
 }
 
 .footer-div p {
   position: absolute;
   top: 32%;
-  left: 58%;
+  left: 52%;
 }
 
 .footer-div2 {
@@ -890,7 +890,7 @@
 
   position: absolute;
   top: 80px;
-  left: 180px;
+  left: 100px;
 }
 
 .footer-div2 li:nth-child(1) {
